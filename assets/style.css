@@ -1,8 +1,7 @@
 
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
 :root{--accent:#ff4400;--paper:#fff6ec;--ink:#1c1a17;--line:#f0e2d2}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Pretendard Variable',Pretendard,-apple-system,'Malgun Gothic',sans-serif;background:var(--paper);color:var(--ink);line-height:1.6}
+body{font-family:Pretendard,-apple-system,'Malgun Gothic',sans-serif;background:var(--paper);color:var(--ink);line-height:1.6}
 header{display:flex;align-items:center;gap:8px;padding:14px 18px;background:#fff;border-bottom:1px solid var(--line)}
 .brand{font-weight:800;font-size:18px;color:var(--accent);text-decoration:none}
 .handle{color:#a89a88;font-size:13px}
