@@ -19,6 +19,8 @@ h3{font-size:15px;margin:16px 0 4px;color:#8a7a66}
 .box.secret .box-head{color:var(--accent)}
 .cta{display:block;background:var(--accent);color:#fff;font-weight:700;text-decoration:none;border-radius:12px;padding:14px;margin:10px 0}
 .cta:active{opacity:.85}
+.cta.sub{background:#fff;color:var(--accent);border:1.5px solid var(--accent)}
+.sub-label{font-size:13px;color:#8a7a66;margin:14px 0 2px}
 .steps{list-style:none}
 .steps li{margin:12px 0}
 .steps p{color:#5c5142}
